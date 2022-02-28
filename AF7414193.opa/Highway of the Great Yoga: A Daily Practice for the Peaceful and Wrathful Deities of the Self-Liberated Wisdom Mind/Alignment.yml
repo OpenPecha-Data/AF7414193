@@ -1,0 +1,25 @@
+segment_sources:
+  P22EAED85:
+    type: origin_type
+    relation: translation
+    language: en
+  P07C4E480:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5766a0bd3c9b405eb68219df3630d5bc:
+    P22EAED85: 063a1f9af13545d1b3aff3509b34030b
+    P07C4E480: dded761314354b89bf263caac2d8b08d
+  db2cfc3c612f4448a63ec4bbab5728b5:
+    P22EAED85: 07c741a3431d41f19109cee86ccaf8fb
+    P07C4E480: ca0b437ecb6342dda9b8b44dd7365c52
+  b8c175afa8e94117bc3f83a35339395e:
+    P22EAED85: 79addba3474d48d59eb980c9f85a1e87
+    P07C4E480: 4e031813fdc14b6590ccfcb8664933fc
+  6cfe9254f22a4d058abf43408ae5df42:
+    P22EAED85: 83816e23fec1489fb3ef1fdecb45a07d
+    P07C4E480: 2ae71895bd494a3390a69ed296691dd4
+  cec036af22df4cb28509e6100d03dac4:
+    P22EAED85: e07174a99e9e4d24b4956aa955312d2f
+    P07C4E480: 49d2c3e7bcdd47e0a894950eaafdf451
